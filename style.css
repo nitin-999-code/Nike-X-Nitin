@@ -76,14 +76,14 @@ html {
     position: relative;
   }
   
-  .sliderBg {
+  .sliderBg{
     width: 750px;
     height: 750px;
     border-radius: 50%;
     position: absolute;
   }
   
-  .sliderImg {
+  .sliderImg{
     z-index: 1;
   }
   
